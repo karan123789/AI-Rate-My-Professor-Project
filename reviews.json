@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Dr. Johnson's lectures are engaging and informative. She explains complex concepts clearly and is always willing to help students outside of class."
+      },
+      {
+        "professor": "Professor Mark Thompson",
+        "subject": "History",
+        "stars": 3,
+        "review": "Professor Thompson knows his material well, but his lectures can be a bit dry. Participation in class discussions helps a lot."
+      },
+      {
+        "professor": "Dr. Sarah Lee",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Dr. Lee is a great teacher who makes math interesting. Her exams are challenging but fair, and she provides plenty of resources for studying."
+      },
+      {
+        "professor": "Professor James Smith",
+        "subject": "Computer Science",
+        "stars": 2,
+        "review": "Professor Smith is knowledgeable, but his teaching style is hard to follow. The lectures often feel disorganized."
+      },
+      {
+        "professor": "Dr. Lisa Brown",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Brown is fantastic! Her passion for chemistry is infectious, and she makes sure everyone understands the material before moving on."
+      },
+      {
+        "professor": "Professor John Davis",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Professor Davis is very knowledgeable and his labs are well-structured. He encourages critical thinking."
+      },
+      {
+        "professor": "Dr. Karen Wilson",
+        "subject": "Economics",
+        "stars": 5,
+        "review": "Dr. Wilson makes economics fascinating. Her real-world examples make the subject come alive."
+      },
+      {
+        "professor": "Professor Michael Green",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Professor Green's classes are informative, but sometimes the lectures lack engagement."
+      },
+      {
+        "professor": "Dr. Susan White",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Dr. White challenges students to think deeply and critically. Her classes are thought-provoking."
+      },
+      {
+        "professor": "Professor Robert Clark",
+        "subject": "Sociology",
+        "stars": 2,
+        "review": "Professor Clark's lectures are often unorganized, making it difficult to follow the material."
+      },
+      {
+        "professor": "Dr. Jessica Lewis",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. Lewis is an amazing lecturer who makes psychology exciting and accessible."
+      },
+      {
+        "professor": "Professor Thomas Walker",
+        "subject": "Art History",
+        "stars": 3,
+        "review": "Professor Walker is knowledgeable, but his lectures can be monotonous at times."
+      },
+      {
+        "professor": "Dr. Nancy Hall",
+        "subject": "Literature",
+        "stars": 4,
+        "review": "Dr. Hall's passion for literature is evident. She encourages lively discussions in class."
+      },
+      {
+        "professor": "Professor William Scott",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Professor Scott is an inspiring teacher who brings music theory to life."
+      },
+      {
+        "professor": "Dr. Angela King",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. King is dedicated to her field and provides students with hands-on learning experiences."
+      },
+      {
+        "professor": "Professor Daniel Young",
+        "subject": "Engineering",
+        "stars": 3,
+        "review": "Professor Young's classes are challenging, but sometimes the material is presented too quickly."
+      },
+      {
+        "professor": "Dr. Patricia Martinez",
+        "subject": "Business",
+        "stars": 5,
+        "review": "Dr. Martinez is an excellent professor who provides valuable insights into the business world."
+      },
+      {
+        "professor": "Professor Charles Anderson",
+        "subject": "Law",
+        "stars": 4,
+        "review": "Professor Anderson's classes are rigorous, but he prepares students well for exams."
+      },
+      {
+        "professor": "Dr. Linda Hernandez",
+        "subject": "Nursing",
+        "stars": 5,
+        "review": "Dr. Hernandez is a compassionate educator who truly cares about her students' success."
+      },
+      {
+        "professor": "Professor Steven Moore",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "Professor Moore's lectures are informative, but sometimes lack engagement."
+      }
+    ]
+  }
